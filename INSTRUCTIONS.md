@@ -9,6 +9,8 @@ Verify:
 node --version
 npm --version
 
+npm install readline-sync
+
 ### Step 2: Install Wenyan CLI
 npm install -g @wenyanlang/
 
