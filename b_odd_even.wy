@@ -1,0 +1,4 @@
+注 「if n % 2 == 0:」。
+注    「print("even")」。
+注 「else:」。
+注    「print("odd")」。
